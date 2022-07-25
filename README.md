@@ -1,3 +1,3 @@
 # whatsappclone
 this is whatsapp web clone
-visit site: https://labyh123456.github.io/whatsappclone/
+https://replit.com/@saadkhan46/BitesizedExtrovertedCondition#index.html
